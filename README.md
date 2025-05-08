@@ -61,20 +61,23 @@ Follow these steps to set up and run the project:
 
 ### Step 1: Clone the Repository  
 First, clone the GitHub repository to your local machine:  
-    ```bash
-    git clone https://github.com/username/MonkeyPox-XNG-AVOA.git
-    cd MonkeyPox-XNG-AVOA
+```bash
+git clone https://github.com/username/MonkeyPox-XNG-AVOA.git
+cd MonkeyPox-XNG-AVOA
+```
 
 ### Step 2: Create a Virtual Environment (Recommended)
 It is recommended to use a virtual environment to manage dependencies:
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows: env\Scripts\activate
+```bash
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+```
 
 ### Step 3: Install Dependencies
 Install the required libraries from the requirements.txt file:
-    ```bash
-    pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ### Step 4: Launch Jupyter Notebook
 
