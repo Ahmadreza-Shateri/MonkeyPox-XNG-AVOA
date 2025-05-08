@@ -87,14 +87,11 @@ pip install -r requirements.txt
 If you use this code, please cite the following paper:
 
 ```bibtex
-@misc{shateri2025explainablenatureinspiredframeworkmonkeypox,
-title={An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm},
-author={Ahmadreza Shateri and Negar Nourani and Morteza Dorrigiv and Hamid Nasiri},
-year={2025},
-eprint={2504.17540},
-archivePrefix={arXiv},
-primaryClass={cs.CV},
-url={https://arxiv.org/abs/2504.17540},
+@article{shateri2025explainable,
+  title={An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm},
+  author={Shateri, Ahmadreza and Nourani, Negar and Dorrigiv, Morteza and Nasiri, Hamid},
+  journal={arXiv preprint arXiv:2504.17540},
+  year={2025}
 }
 
 
